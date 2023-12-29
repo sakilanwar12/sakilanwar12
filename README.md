@@ -4,6 +4,3 @@ I am a dedicated Frontend Developer with experience in React.js, Next.js, Vue.js
 <br/>
 I love to read books and listen to music.
 
-- 🔭 I’m currently working on CodeShaper Company.
-- 🌱 I’m currently working on dashboard,landing page frontend template.
-
