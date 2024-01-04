@@ -27,7 +27,3 @@ I love to read books and listen to music.
 - 📫 I am just one mail away - [sakilanwar60@gmail.com]
 - :wrench: Tools - VSCode,Git, Github, xampp, wampp. postman and others.
 
-### Where to find me
-
-[![Linkedin](https://www.linkedin.com/in/md-sakil-anwar-4b6941241/)]
-[![Facebook](https://www.facebook.com/shakilahmed.omi.5)]
