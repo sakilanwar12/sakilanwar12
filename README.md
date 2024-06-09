@@ -4,6 +4,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-593D88?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
@@ -12,18 +13,40 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 
-I am a Frontend Developer , working with Vue.js, React.js, Next.js, Nuxt.js and TailwindCSS . Currently, **I'm open to work and employment opportunities**.
+I'm a Frontend Developer with expertise in Vue.js, React.js, Next.js, Nuxt.js, TailwindCSS, and proficiency in various UI libraries. I'm currently a valuable member of the team at <b>Codeshaper Company</b>, where I focus on crafting efficient code and elevating user experiences using these technologies.
 
-Currently I am working for codeshaper as a frontend developer.
 
-I love to read books and listen to music.
+<p style="font-size:20px; font-weight:bold">My Working Projects: (Themeforest Approved)</p>
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote and relocation)
-- 💬 Ask me about Vue.js, React.js, Next.js.
-- 📫 I am just one mail away - [sakilanwar60@gmail.com]
-- :wrench: Tools - VSCode,Git, Github, xampp, wampp. postman and others.
+ 1. [Dashtail](https://themeforest.net/item/dashtail-tailwind-react-next-admin-dashboard-template/51622353) (admin Template)
+ 2. [Dashcode](https://themeforest.net/item/dashcode-admin-dashboard-template/42600453?gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRMV4dGzx-TRMQBrInwNaSBu5mPSWdRZVdhX2Tp84hUyjLBSFxLA9ukaApe4EALw_wcB) (admin Template)
+ 3. [Transco](https://themeforest.net/item/transco-transport-and-logistic-react-template/48398980) 
+ 
+<p style="font-size:20px; font-weight:bold">My Working Projects: (Client Projects)</p>
+
+  1. [Payquad](https://payquad.com/)  
+  2. [Nise](http://www.nise.us/index.html) 
+
+
+Company goal is more important for me. I always try to catch deadlines. I never misuse my time. I love to write clean and organized code. I always stay updated on the latest technologies, practice responsive design, test across browsers and devices, use Git for version control, comment and document code, and continuously learn and improve
+
+# Hire Me
+<p style="font-size:18px;font-weight:500; color:rgba(255,0,0,0.6)">I'm open to work and employment opportunities. Contact me - ♥ :)</p>
+
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakil-anwar-4b6941241/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SakilAn07114100)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shakilahmed.omi.5)
+
+### Numbers
+![Sakil Anwar Stats](https://github-readme-stats.vercel.app/api?username=sakilanwar12&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![Sakil Anwar](https://github-readme-streak-stats.herokuapp.com/?user=sakilanwar12&theme=darcula&hide_border=true)
+
+![Sakil Anwar](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilanwar12&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+
 
