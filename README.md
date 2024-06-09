@@ -37,9 +37,7 @@ I'm a Frontend Developer with expertise in Vue.js, React.js, Next.js, Nuxt.js, T
 Company goal is more important for me. I always try to catch deadlines. I never misuse my time. I love to write clean and organized code. I always stay updated on the latest technologies, practice responsive design, test across browsers and devices, use Git for version control, comment and document code, and continuously learn and improve
 
 # Hire Me
-<p style="font-size:18px;font-weight:500; color:rgba(255,0,0,0.6)">I'm open to work and employment opportunities. Contact me - ♥ :)</p>
-
-
+<h4>I'm open to work and employment opportunities. Contact me - ♥ :)</h4>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakil-anwar-4b6941241/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SakilAn07114100)
