@@ -19,19 +19,6 @@ I'm a Frontend Developer with expertise in Vue.js, React.js, Next.js, Nuxt.js, T
 
 
 ## My Working Projects: 
-
- Themeforest Approved : ✓
-
- 1. [Dashtail](https://themeforest.net/item/dashtail-tailwind-react-next-admin-dashboard-template/51622353) (admin Template)
- 2. [Dashcode](https://themeforest.net/item/dashcode-admin-dashboard-template/42600453?gad_source=1&gclid=Cj0KCQjwpZWzBhC0ARIsACvjWRMV4dGzx-TRMQBrInwNaSBu5mPSWdRZVdhX2Tp84hUyjLBSFxLA9ukaApe4EALw_wcB) (admin Template)
- 3. [Transco](https://themeforest.net/item/transco-transport-and-logistic-react-template/48398980) 
- 
-
-   Client Projects:
-
-  1. [Payquad](https://payquad.com/)  
-  2. [Nise](http://www.nise.us/index.html) 
-  
   
 
 Company goal is more important for me. I always try to catch deadlines. I never misuse my time. I love to write clean and organized code. I always stay updated on the latest technologies, practice responsive design, test across browsers and devices, use Git for version control, comment and document code, and continuously learn and improve
