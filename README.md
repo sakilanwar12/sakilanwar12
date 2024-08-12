@@ -24,7 +24,6 @@ I'm a Frontend Developer with expertise in Vue.js, React.js, Next.js, Nuxt.js, T
 Company goal is more important for me. I always try to catch deadlineSs. I never misuse my time. I love to write clean and organized code. I always stay updated on the latest technologies, practice responsive design, test across browsers and devices, use Git for version control, comment and document code, and continuously learn and improve
 
 Projects:
-![Dashtail]("./dashtail.png")
 [Dashtail - js/ts/Next/Nuxt](https://themeforest.net/item/dashtail-tailwind-react-next-admin-dashboard-template/51622353?gad_source=1&gclid=Cj0KCQjw5ea1BhC6ARIsAEOG5pyjYBjS7mtRzSQAk531LoLb518zftuPjkgUdZ5YODKqi4qG1Xwn-rwaAvoOEALw_wcB)  |
 [Dashcode- js/ts/Next/Nuxt](https://themeforest.net/item/dashcode-admin-dashboard-template/42600453?gad_source=1&gclid=Cj0KCQjw5ea1BhC6ARIsAEOG5pxrwFpkEH-2-bAY1arZVq3Es3IVtuBtFzSByx-oqi3pvF7Wq1aaxC0aAmkPEALw_wcB) |
 [Transco - React](https://themeforest.net/item/transco-transport-and-logistic-react-template/48398980)
