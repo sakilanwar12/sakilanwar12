@@ -15,24 +15,55 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 
-I'm a Frontend Developer with expertise in Vue.js, React.js, Next.js, Nuxt.js, TailwindCSS, and proficiency in various UI libraries. I'm currently a valuable member of the team at <b>Codeshaper Company</b>, where I focus on crafting efficient code and elevating user experiences using these technologies.
 
 
-## My Working Projects: 
-  
+##  About Me
+Hey, I'm Sakil Anwar  I’m a Frontend Developer with strong expertise in React.js, Vue.js, Next.js, Nuxt.js, TailwindCSS, and modern UI libraries.
+At Codeshaper, I focus on writing clean, optimized, and scalable code while delivering high-quality user experiences.
 
-Company goal is more important for me. I always try to catch deadlineSs. I never misuse my time. I love to write clean and organized code. I always stay updated on the latest technologies, practice responsive design, test across browsers and devices, use Git for version control, comment and document code, and continuously learn and improve
-
-Projects:
-[Dashtail - js/ts/Next/Nuxt](https://themeforest.net/item/dashtail-tailwind-react-next-admin-dashboard-template/51622353?gad_source=1&gclid=Cj0KCQjw5ea1BhC6ARIsAEOG5pyjYBjS7mtRzSQAk531LoLb518zftuPjkgUdZ5YODKqi4qG1Xwn-rwaAvoOEALw_wcB)  |
-[Dashcode- js/ts/Next/Nuxt](https://themeforest.net/item/dashcode-admin-dashboard-template/42600453?gad_source=1&gclid=Cj0KCQjw5ea1BhC6ARIsAEOG5pxrwFpkEH-2-bAY1arZVq3Es3IVtuBtFzSByx-oqi3pvF7Wq1aaxC0aAmkPEALw_wcB) |
-[Transco - React](https://themeforest.net/item/transco-transport-and-logistic-react-template/48398980)
+#### I consistently follow best practices:
 
 
-# Hire Me
-<h4>I'm open to work and employment opportunities. Contact me - ♥ :)</h4>
+- Write clean, organized, and reusable code
+- Always meet deadlines and respect company goals
+- Stay updated with new technologies & trends
+- Build fully responsive and cross-browser compatible layouts
+- Use Git & GitHub for version control
+- Document, comment, and continuously improve my workflow
 
+
+
+##  Tech Stack
+
+- Languages & Frameworks:
+- JavaScript, TypeScript, React.js, Vue.js, Alpine.js, Node.js, Next.js, Nuxt.js
+- Tools & Libraries:
+- Vite, jQuery, TailwindCSS, Bootstrap, Markdown, Git
+- TailwindCSS, Bootstrap, CSS3, HTML5
+
+## Featured Projects
+### Dashtail
+Tech: JS / TS / Next.js / Nuxt.js
+A modern dashboard template system focusing on reusability, performance, and UI consistency.
+### DashCode
+Tech: JS / TS / Next.js / Nuxt.js
+A powerful admin dashboard design with modular components and flexible layout controls.
+### Transco
+Tech: React
+A clean and responsive frontend built with React for a transportation-based application.
+
+## Work Ethic
+✨ Company goals are always my highest priority.
+✨ I never misuse time and always work with discipline.
+✨ I aim to create meaningful user experiences with clean code and solid structure.
+
+🤝 Hire Me
+I'm open to full-time work, collaborations, and freelance opportunities.
+Let’s connect — I’d love to join your team or help you build your next project.
+🌐 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakil-anwar-4b6941241/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SakilAn07114100)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shakilahmed.omi.5)
+
+
 
