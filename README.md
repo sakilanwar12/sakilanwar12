@@ -42,25 +42,31 @@ At Codeshaper, I focus on writing clean, optimized, and scalable code while deli
 - TailwindCSS, Bootstrap, CSS3, HTML5
 
 ## Featured Projects
-### Dashtail
-Tech: JS / TS / Next.js / Nuxt.js
-A modern dashboard template system focusing on reusability, performance, and UI consistency.
-### DashCode
-Tech: JS / TS / Next.js / Nuxt.js
-A powerful admin dashboard design with modular components and flexible layout controls.
-### Transco
-Tech: React
-A clean and responsive frontend built with React for a transportation-based application.
+#### Fennec (Global Event Management Platform):
+Collaborated with the Fennec team to understand requirements and implemented multi-role dashboards, inventory, social features, and AI tools using Next.js & TypeScript.
+### ToinPark (Crypto Platform):
+Collaborated with Toinpark team to implement dashboards, portfolio tracking, and crypto features using Next.js & TypeScript.
+#### Dashtail (ThemeForest Approved):
+ Multi-theme Admin Dashboard template with reusable components and clean UI, available in Next.js and Alpine.js  versions. [Live Link](https://dash-tail.vercel.app/en/auth/login)
+#### Dashcode (ThemeForest Approved)
+Modern, scalable Admin Dashboard template with reusable components and consistent UI, available in Next.js and Nuxt.js versions.[Live Link](https://dashcode-next-shadcn-live.vercel.app/en)
+#### Transco (ThemeForest Approved) 
+ Responsive React template with reusable components and clean UI, optimized for modern web projects.[Live Link](https://preview.themeforest.net/item/transco-transport-and-logistic-react-template/full_screen_preview/48398980)
+#### JS Utility Method (NPM Package): 
+A lightweight JavaScript library for simplifying data handling, object manipulation, and rapid development in web projects.[Npm Package Link](https://www.npmjs.com/package/js-utility-method)
+
 
 ## Work Ethic
-✨ Company goals are always my highest priority.
-✨ I never misuse time and always work with discipline.
-✨ I aim to create meaningful user experiences with clean code and solid structure.
+- Company goals are always my highest priority.
+- I never misuse time and always work with discipline.
+- I aim to create meaningful user experiences with clean code and solid structure.
 
-🤝 Hire Me
+## Hire Me
 I'm open to full-time work, collaborations, and freelance opportunities.
 Let’s connect — I’d love to join your team or help you build your next project.
-🌐 Connect With Me
+
+## Connect With Me
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sakil-anwar-4b6941241/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/SakilAn07114100)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shakilahmed.omi.5)
