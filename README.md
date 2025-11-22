@@ -14,12 +14,14 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-## About Me
+## About Me 
+
 
 Hey, I'm Sakil Anwar I’m a Frontend Developer with strong expertise in React.js, Vue.js, Next.js, Nuxt.js, TailwindCSS, and modern UI libraries.
 At Codeshaper, I focus on writing clean, optimized, and scalable code while delivering high-quality user experiences.
+[Portfolio Website](https://sakil-anwar-rfq5.vercel.app/)
 
-#### I consistently follow best practices:
+### I consistently follow best practices:
 
 - Write clean, organized, and reusable code
 - Always meet deadlines and respect company goals
@@ -39,27 +41,27 @@ At Codeshaper, I focus on writing clean, optimized, and scalable code while deli
 
 ## Featured Projects
 
-#### Fennec (Global Event Management Platform):
+## Fennec (Global Event Management Platform):
 
 Collaborated with the Fennec team to understand requirements and implemented multi-role dashboards, inventory, social features, and AI tools using Next.js & TypeScript.
 
-### ToinPark (Crypto Platform):
+## ToinPark (Crypto Platform):
 
 Collaborated with Toinpark team to implement dashboards, portfolio tracking, and crypto features using Next.js & TypeScript.
 
-#### Dashtail (ThemeForest Approved):
+## Dashtail (ThemeForest Approved):
 
 Multi-theme Admin Dashboard template with reusable components and clean UI, available in Next.js and Alpine.js versions. [Live Link](https://dash-tail.vercel.app/en/auth/login)
 
-#### Dashcode (ThemeForest Approved)
+## Dashcode (ThemeForest Approved)
 
 Modern, scalable Admin Dashboard template with reusable components and consistent UI, available in Next.js and Nuxt.js versions.[Live Link](https://dashcode-next-shadcn-live.vercel.app/en)
 
-#### Transco (ThemeForest Approved)
+## Transco (ThemeForest Approved)
 
 Responsive React template with reusable components and clean UI, optimized for modern web projects.[Live Link](https://preview.themeforest.net/item/transco-transport-and-logistic-react-template/full_screen_preview/48398980)
 
-#### JS Utility Method (NPM Package):
+## JS Utility Method (NPM Package):
 
 A lightweight JavaScript library for simplifying data handling, object manipulation, and rapid development in web projects.[Npm Package Link](https://www.npmjs.com/package/js-utility-method)
 
